@@ -1,0 +1,158 @@
+Nutrient,Amount,Unit,DV,commodity
+Calories,160.0,,,cassava_raw
+"Vitamin A, RAE",1.0,mcg,0 %,cassava_raw
+Thiamin [Vitamin B1],0.087,mg,7 %,cassava_raw
+Riboflavin [Vitamin B2],0.048,mg,4 %,cassava_raw
+Niacin [Vitamin B3],0.854,mg,5 %,cassava_raw
+Vitamin C [Ascorbic acid],20.6,mg,23 %,cassava_raw
+Calcium,16.0,mg,1 %,cassava_raw
+Iron,0.27,mg,2 %,cassava_raw
+Protein,1.36,g,3 %,cassava_raw
+Calories,148.0,,,chicken_raw_meat_only_stewing
+"Vitamin A, RAE",32.0,mcg,4 %,chicken_raw_meat_only_stewing
+Thiamin [Vitamin B1],0.149,mg,12 %,chicken_raw_meat_only_stewing
+Riboflavin [Vitamin B2],0.207,mg,16 %,chicken_raw_meat_only_stewing
+Niacin [Vitamin B3],7.477,mg,47 %,chicken_raw_meat_only_stewing
+Vitamin C [Ascorbic acid],3.3,mg,4 %,chicken_raw_meat_only_stewing
+Calcium,10.0,mg,1 %,chicken_raw_meat_only_stewing
+Iron,1.09,mg,6 %,chicken_raw_meat_only_stewing
+Protein,21.26,g,43 %,chicken_raw_meat_only_stewing
+Calories,86.0,,,corn_raw
+"Vitamin A, RAE",9.0,mcg,1 %,corn_raw
+Thiamin [Vitamin B1],0.155,mg,13 %,corn_raw
+Riboflavin [Vitamin B2],0.055,mg,4 %,corn_raw
+Niacin [Vitamin B3],1.77,mg,11 %,corn_raw
+Vitamin C [Ascorbic acid],6.8,mg,8 %,corn_raw
+Calcium,2.0,mg,0 %,corn_raw
+Iron,0.52,mg,3 %,corn_raw
+Protein,3.27,g,7 %,corn_raw
+Calories,86,,,corn_raw_yellow_sweet
+"Vitamin A, RAE",9.00,mcg,1 %,corn_raw_yellow_sweet
+Thiamin [Vitamin B1],0.155,mg,13 %,corn_raw_yellow_sweet
+Riboflavin [Vitamin B2],0.055,mg,4 %,corn_raw_yellow_sweet
+Niacin [Vitamin B3],1.770,mg,11 %,corn_raw_yellow_sweet
+Vitamin C [Ascorbic acid],6.8,mg,8 %,corn_raw_yellow_sweet
+Calcium,2.00,mg,0 %,corn_raw_yellow_sweet
+Iron,0.52,mg,3 %,corn_raw_yellow_sweet
+Protein,3.27,g,7 %,corn_raw_yellow_sweet
+Calories,343.0,,,cowpeas_raw_mature_seeds_catjang
+"Vitamin A, RAE",2.0,mcg,0 %,cowpeas_raw_mature_seeds_catjang
+Thiamin [Vitamin B1],0.68,mg,57 %,cowpeas_raw_mature_seeds_catjang
+Riboflavin [Vitamin B2],0.17,mg,13 %,cowpeas_raw_mature_seeds_catjang
+Niacin [Vitamin B3],2.795,mg,17 %,cowpeas_raw_mature_seeds_catjang
+Vitamin C [Ascorbic acid],1.5,mg,2 %,cowpeas_raw_mature_seeds_catjang
+Calcium,85.0,mg,7 %,cowpeas_raw_mature_seeds_catjang
+Iron,9.95,mg,55 %,cowpeas_raw_mature_seeds_catjang
+Protein,23.85,g,48 %,cowpeas_raw_mature_seeds_catjang
+Calories,25.0,,,eggplant_raw
+"Vitamin A, RAE",1.0,mcg,0 %,eggplant_raw
+Thiamin [Vitamin B1],0.039,mg,3 %,eggplant_raw
+Riboflavin [Vitamin B2],0.037,mg,3 %,eggplant_raw
+Niacin [Vitamin B3],0.649,mg,4 %,eggplant_raw
+Vitamin C [Ascorbic acid],2.2,mg,2 %,eggplant_raw
+Calcium,9.0,mg,1 %,eggplant_raw
+Iron,0.23,mg,1 %,eggplant_raw
+Protein,0.98,g,2 %,eggplant_raw
+Calories,205.0,,,fish_raw_atlantic_mackerel
+"Vitamin A, RAE",50.0,mcg,6 %,fish_raw_atlantic_mackerel
+Thiamin [Vitamin B1],0.176,mg,15 %,fish_raw_atlantic_mackerel
+Riboflavin [Vitamin B2],0.312,mg,24 %,fish_raw_atlantic_mackerel
+Niacin [Vitamin B3],9.08,mg,57 %,fish_raw_atlantic_mackerel
+Vitamin C [Ascorbic acid],0.4,mg,0 %,fish_raw_atlantic_mackerel
+Calcium,12.0,mg,1 %,fish_raw_atlantic_mackerel
+Iron,1.63,mg,9 %,fish_raw_atlantic_mackerel
+Protein,18.6,g,37 %,fish_raw_atlantic_mackerel
+Calories,357.0,,,gari_by_golden_tropics_ltd
+Vitamin C [Ascorbic acid],0.0,mg,0 %,gari_by_golden_tropics_ltd
+Calcium,71.0,mg,5 %,gari_by_golden_tropics_ltd
+Iron,2.57,mg,14 %,gari_by_golden_tropics_ltd
+Protein,0.0,g,0 %,gari_by_golden_tropics_ltd
+Calories,378.0,,,millet_raw
+"Vitamin A, RAE",0.0,mcg,0 %,millet_raw
+Thiamin [Vitamin B1],0.421,mg,35 %,millet_raw
+Riboflavin [Vitamin B2],0.29,mg,22 %,millet_raw
+Niacin [Vitamin B3],4.72,mg,30 %,millet_raw
+Vitamin C [Ascorbic acid],0.0,mg,0 %,millet_raw
+Calcium,8.0,mg,1 %,millet_raw
+Iron,3.01,mg,17 %,millet_raw
+Protein,11.02,g,22 %,millet_raw
+Calories,40.0,,,onions_raw
+"Vitamin A, RAE",0.0,mcg,0 %,onions_raw
+Thiamin [Vitamin B1],0.046,mg,4 %,onions_raw
+Riboflavin [Vitamin B2],0.027,mg,2 %,onions_raw
+Niacin [Vitamin B3],0.116,mg,1 %,onions_raw
+Vitamin C [Ascorbic acid],7.4,mg,8 %,onions_raw
+Calcium,23.0,mg,2 %,onions_raw
+Iron,0.21,mg,1 %,onions_raw
+Protein,1.1,g,2 %,onions_raw
+Calories,281.0,,,peppers_dried_ancho
+"Vitamin A, RAE",1022.0,mcg,114 %,peppers_dried_ancho
+Thiamin [Vitamin B1],0.179,mg,15 %,peppers_dried_ancho
+Riboflavin [Vitamin B2],2.255,mg,173 %,peppers_dried_ancho
+Niacin [Vitamin B3],6.403,mg,40 %,peppers_dried_ancho
+Vitamin C [Ascorbic acid],2.0,mg,2 %,peppers_dried_ancho
+Calcium,61.0,mg,5 %,peppers_dried_ancho
+Iron,10.93,mg,61 %,peppers_dried_ancho
+Protein,11.86,g,24 %,peppers_dried_ancho
+Calories,26.0,,,peppers_raw_red_sweet
+"Vitamin A, RAE",157.0,mcg,17 %,peppers_raw_red_sweet
+Thiamin [Vitamin B1],0.054,mg,5 %,peppers_raw_red_sweet
+Riboflavin [Vitamin B2],0.085,mg,7 %,peppers_raw_red_sweet
+Niacin [Vitamin B3],0.979,mg,6 %,peppers_raw_red_sweet
+Vitamin C [Ascorbic acid],127.7,mg,142 %,peppers_raw_red_sweet
+Calcium,7.0,mg,1 %,peppers_raw_red_sweet
+Iron,0.43,mg,2 %,peppers_raw_red_sweet
+Protein,0.99,g,2 %,peppers_raw_red_sweet
+Calories,152,,,plantains_raw_green
+Thiamin [Vitamin B1],0.100,mg,8 %,plantains_raw_green
+Riboflavin [Vitamin B2],0.100,mg,8 %,plantains_raw_green
+Niacin [Vitamin B3],0.550,mg,3 %,plantains_raw_green
+Vitamin C [Ascorbic acid],20.2,mg,22 %,plantains_raw_green
+Calcium,2.00,mg,0 %,plantains_raw_green
+Iron,0.75,mg,4 %,plantains_raw_green
+Protein,1.25,g,2 %,plantains_raw_green
+Calories,367,,,rice_raw_longgrain_brown
+"Vitamin A, RAE",0.00,mcg,0 %,rice_raw_longgrain_brown
+Thiamin [Vitamin B1],0.541,mg,45 %,rice_raw_longgrain_brown
+Riboflavin [Vitamin B2],0.095,mg,7 %,rice_raw_longgrain_brown
+Niacin [Vitamin B3],6.494,mg,41 %,rice_raw_longgrain_brown
+Vitamin C [Ascorbic acid],0.0,mg,0 %,rice_raw_longgrain_brown
+Calcium,9.00,mg,1 %,rice_raw_longgrain_brown
+Iron,1.29,mg,7 %,rice_raw_longgrain_brown
+Protein,7.54,g,15 %,rice_raw_longgrain_brown
+Calories,329.0,,,sorghum_grain
+"Vitamin A, RAE",0.0,mcg,0 %,sorghum_grain
+Thiamin [Vitamin B1],0.332,mg,28 %,sorghum_grain
+Riboflavin [Vitamin B2],0.096,mg,7 %,sorghum_grain
+Niacin [Vitamin B3],3.688,mg,23 %,sorghum_grain
+Vitamin C [Ascorbic acid],0.0,mg,0 %,sorghum_grain
+Calcium,13.0,mg,1 %,sorghum_grain
+Iron,3.36,mg,19 %,sorghum_grain
+Protein,10.62,g,21 %,sorghum_grain
+Calories,446.0,,,soybeans_raw_mature_seeds
+"Vitamin A, RAE",1.0,mcg,0 %,soybeans_raw_mature_seeds
+Thiamin [Vitamin B1],0.874,mg,73 %,soybeans_raw_mature_seeds
+Riboflavin [Vitamin B2],0.87,mg,67 %,soybeans_raw_mature_seeds
+Niacin [Vitamin B3],1.623,mg,10 %,soybeans_raw_mature_seeds
+Vitamin C [Ascorbic acid],6.0,mg,7 %,soybeans_raw_mature_seeds
+Calcium,277.0,mg,21 %,soybeans_raw_mature_seeds
+Iron,15.7,mg,87 %,soybeans_raw_mature_seeds
+Protein,36.49,g,73 %,soybeans_raw_mature_seeds
+Calories,18.0,,,tomatoes_raw
+"Vitamin A, RAE",42.0,mcg,5 %,tomatoes_raw
+Thiamin [Vitamin B1],0.037,mg,3 %,tomatoes_raw
+Riboflavin [Vitamin B2],0.019,mg,1 %,tomatoes_raw
+Niacin [Vitamin B3],0.594,mg,4 %,tomatoes_raw
+Vitamin C [Ascorbic acid],13.7,mg,15 %,tomatoes_raw
+Calcium,10.0,mg,1 %,tomatoes_raw
+Iron,0.27,mg,2 %,tomatoes_raw
+Protein,0.88,g,2 %,tomatoes_raw
+Calories,118.0,,,yam_raw
+"Vitamin A, RAE",7.0,mcg,1 %,yam_raw
+Thiamin [Vitamin B1],0.112,mg,9 %,yam_raw
+Riboflavin [Vitamin B2],0.032,mg,2 %,yam_raw
+Niacin [Vitamin B3],0.552,mg,3 %,yam_raw
+Vitamin C [Ascorbic acid],17.1,mg,19 %,yam_raw
+Calcium,17.0,mg,1 %,yam_raw
+Iron,0.54,mg,3 %,yam_raw
+Protein,1.53,g,3 %,yam_raw

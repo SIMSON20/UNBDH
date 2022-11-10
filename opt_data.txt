@@ -1,0 +1,8 @@
+categories
+
+'cereals and tubers', 'meat, fish and eggs', 'pulses and nuts', 'vegetables and fruits'
+
+commodities
+
+'Cassava', 'Gari', 'Maize', 'Maize (yellow)', 'Millet', 'Rice (imported)', 'Rice (local)', 'Sorghum', 'Yam', 'Yam (puna)', 'Fish (mackerel, fresh)', 'Meat (chicken)', 'Cowpeas', 'Soybeans', 'Eggplants', 'Onions', 'Peppers (dried)', 'Peppers (fresh)', 'Plantains (apem)', 'Plantains (apentu)', 'Tomatoes (local)', 'Tomatoes (navrongo)'
+

@@ -1,0 +1,418 @@
+market,commodity,errors
+Accra,Maize (yellow),1.0556771824269138
+Cape Coast,Maize (yellow),1.0567439879296108
+Sekondi/Takoradi,Maize,1.091884273612948
+Tamale,Millet,1.1306760832856961
+Tamale,Sorghum,1.1580595409848486
+Accra,Maize,1.1663747201994237
+Cape Coast,Maize,1.1950509328680248
+Ejura,Yam (puna),1.1976039551852584
+Wa,Millet,1.2044666851534611
+Bolga,Millet,1.2101688271734545
+Kintampo,Millet,1.2175627521322372
+Ho,Millet,1.270489930595717
+Accra,Millet,1.2844269265278474
+Koforidua,Millet,1.293069127474349
+Techiman,Millet,1.3300493779247609
+Kintampo,Rice (local),1.3413840091128777
+Koforidua,Sorghum,1.37303418058037
+Yendi,Gari,1.3744795133742647
+Sunyani,Sorghum,1.3933717711176252
+Mankessim,Maize (yellow),1.407586314439062
+Yendi,Rice (imported),1.4184970528521013
+Sekondi/Takoradi,Maize (yellow),1.4246028258249257
+Tema,Maize,1.45735546657688
+Ejura,Sorghum,1.4694613750859797
+Sunyani,Millet,1.4740944754703742
+Yendi,Millet,1.506080393020298
+Yendi,Rice (local),1.5076023302974784
+Sunyani,Maize,1.510625645026927
+Garu,Sorghum,1.5180292662840682
+Ho,Maize,1.5314981427468164
+Kumasi,Millet,1.539287705097278
+Hohoe,Maize,1.542128936061182
+Bolga,Rice (local),1.5421664891459077
+Obuasi,Maize (yellow),1.5432335901164154
+Wa,Maize (yellow),1.5672396176368024
+Kintampo,Plantains (apem),1.569876544630548
+Wa,Maize,1.5786266683608356
+Ejura,Millet,1.5815886259211294
+Koforidua,Maize (yellow),1.5864170745723631
+Ho,Maize (yellow),1.587671918027994
+Tamale,Rice (local),1.5897622455224472
+Sunyani,Maize (yellow),1.6136755557260314
+Garu,Rice (local),1.615581289234001
+Yendi,Peppers (fresh),1.6182140682156094
+Techiman,Rice (local),1.618394282814491
+Hohoe,Millet,1.618432811180145
+Kumasi,Sorghum,1.6399605578847611
+Techiman,Maize (yellow),1.6439358645095536
+Koforidua,Maize,1.6869431223588705
+Tamale,Maize,1.69780566876874
+Hohoe,Sorghum,1.7011187135538894
+Wa,Rice (local),1.7062180815808212
+Mankessim,Plantains (apentu),1.71601828231348
+Yendi,Cowpeas,1.7162863633357168
+Tamale,Maize (yellow),1.718279041973078
+Ho,Sorghum,1.7211633205114962
+Kintampo,Gari,1.7265541244326648
+Kumasi,Gari,1.7337828570646234
+Garu,Maize,1.7431739650101299
+Wa,Sorghum,1.7452740337336197
+Techiman,Sorghum,1.7501644927852962
+Techiman,Maize,1.75917325679937
+Bolga,Maize (yellow),1.7624210708684882
+Yendi,Plantains (apentu),1.7723828665502905
+Tamale,Gari,1.7726069564316527
+Bolga,Maize,1.7736251561520953
+Mankessim,Sorghum,1.7877152013186106
+Kintampo,Sorghum,1.7963986002745516
+Bolga,Sorghum,1.8146583865962627
+Ejura,Maize (yellow),1.8367756403694833
+Sunyani,Gari,1.8461540084738195
+Koforidua,Plantains (apentu),1.8502623203149178
+Yendi,Sorghum,1.8511606192278611
+Ejura,Maize,1.8917207448354723
+Kintampo,Maize (yellow),1.8953720243617653
+Garu,Millet,1.9147476258999108
+Obuasi,Sorghum,1.9281371373719298
+Yendi,Maize,1.929649650408447
+Kumasi,Maize (yellow),1.9315578710144077
+Ho,Gari,1.9351133134385443
+Obuasi,Rice (local),1.9473017887714008
+Yendi,Yam (puna),1.9531278587091476
+Garu,Yam (puna),1.9753081351650954
+Mankessim,Gari,1.9772494085037096
+Accra,Yam (puna),2.001361843952345
+Yendi,Tomatoes (navrongo),2.0096201626788255
+Kintampo,Maize,2.0343831907985774
+Kumasi,Maize,2.038142437348633
+Hohoe,Gari,2.0514960781875384
+Mankessim,Millet,2.0882637156098327
+Cape Coast,Sorghum,2.097350897970198
+Hohoe,Plantains (apentu),2.0977976897063972
+Cape Coast,Millet,2.0982328528951695
+Yendi,Plantains (apem),2.103994184798416
+Wa,Yam (puna),2.106236379380083
+Hohoe,Plantains (apem),2.119190670849331
+Mankessim,Plantains (apem),2.1541743625071246
+Ho,Rice (imported),2.154422045673544
+Wa,Cassava,2.156481610300793
+Obuasi,Soybeans,2.172152757599947
+Wa,Cowpeas,2.179416927123246
+Ejura,Gari,2.186357018035948
+Accra,Plantains (apem),2.2035203816265376
+Techiman,Gari,2.215986562515883
+Sekondi/Takoradi,Sorghum,2.299375266249643
+Koforidua,Plantains (apem),2.303576901603411
+Sekondi/Takoradi,Millet,2.304148532529621
+Accra,Gari,2.314031704551898
+Ejura,Rice (local),2.32229300195468
+Garu,Gari,2.337338816367371
+Ho,Rice (local),2.34441497740701
+Ejura,Eggplants,2.3544192138406235
+Kintampo,Yam (puna),2.356896248652772
+Mankessim,Rice (imported),2.380298514381156
+Mankessim,Yam (puna),2.383379679159802
+Wa,Plantains (apem),2.391890971962393
+Garu,Cassava,2.4228072549525566
+Mankessim,Maize,2.4324636766612313
+Ho,Yam (puna),2.455503788439985
+Hohoe,Yam (puna),2.4630433535170217
+Ejura,Cowpeas,2.467924213028287
+Accra,Yam,2.474893502724292
+Kintampo,Cowpeas,2.488492678893361
+Garu,Eggplants,2.4956549495022426
+Kumasi,Cassava,2.5012426391166427
+Hohoe,Peppers (dried),2.518803417853096
+Accra,Rice (local),2.555978617593587
+Wa,Gari,2.591174251409679
+Yendi,Yam,2.592318322794129
+Obuasi,Maize,2.613351506097235
+Yendi,Tomatoes (local),2.6163895205325387
+Hohoe,Cassava,2.655625264865278
+Mankessim,Rice (local),2.656339306117312
+Tamale,Plantains (apem),2.6926715134339
+Garu,Maize (yellow),2.722880761768762
+Obuasi,Tomatoes (navrongo),2.7279822556107973
+Garu,Yam,2.7303697518697434
+Kumasi,Yam (puna),2.751824561617556
+Wa,Tomatoes (navrongo),2.7522432808926336
+Bolga,Yam (puna),2.760682571257522
+Yendi,Cassava,2.780809337174967
+Koforidua,Peppers (fresh),2.7861496772990826
+Hohoe,Eggplants,2.7868810864307894
+Tamale,Tomatoes (local),2.787395917671371
+Hohoe,Rice (local),2.81556590354242
+Accra,Rice (imported),2.8254365746210692
+Bolga,Tomatoes (navrongo),2.830296333315086
+Obuasi,Plantains (apem),2.857599257072089
+Sekondi/Takoradi,Rice (local),2.8588410656804424
+Ejura,Rice (imported),2.8603499846663665
+Kumasi,Rice (local),2.8618531885740417
+Tema,Maize (yellow),2.8701154146486543
+Ejura,Tomatoes (local),2.9064611653793433
+Hohoe,Maize (yellow),2.907797243669729
+Accra,Cassava,2.9184039300084326
+Obuasi,Gari,2.922382121072979
+Ejura,Cassava,2.923459561112274
+Cape Coast,Yam (puna),2.927377666170974
+Garu,Rice (imported),2.9287154536052578
+Wa,Plantains (apentu),2.9551351826809538
+Accra,Plantains (apentu),2.9622394790697952
+Sunyani,Rice (local),2.9684271331601018
+Ejura,Plantains (apem),2.974935727894814
+Tamale,Tomatoes (navrongo),2.982791674089352
+Tamale,Eggplants,3.0385867909846924
+Kintampo,Cassava,3.0644594993869103
+Garu,Plantains (apem),3.0688484365234507
+Garu,Peppers (fresh),3.0712038923324165
+Accra,Sorghum,3.071624657182998
+Kintampo,Yam,3.074128918983875
+Tamale,Plantains (apentu),3.0845847649947027
+Sunyani,Plantains (apem),3.0962751385426435
+Garu,Plantains (apentu),3.105561774581013
+Bolga,Cowpeas,3.1457298158011
+Hohoe,Yam,3.151591266946892
+Ejura,Yam,3.1810274604125897
+Sekondi/Takoradi,Plantains (apentu),3.202836017118187
+Garu,Tomatoes (local),3.20529653122285
+Sunyani,Yam (puna),3.2491568166315448
+Ejura,Onions,3.2970564722192868
+Garu,"Fish (mackerel, fresh)",3.307713697766523
+Kintampo,Rice (imported),3.336176685151408
+Obuasi,Rice (imported),3.361411441186703
+Bolga,Cassava,3.362603564150025
+Kumasi,Yam,3.3678548463687417
+Techiman,Peppers (fresh),3.4284976921747266
+Hohoe,Cowpeas,3.4328202518193485
+Kintampo,Tomatoes (local),3.466928173253321
+Mankessim,Tomatoes (local),3.4759789663180487
+Kintampo,Tomatoes (navrongo),3.4814001979689224
+Techiman,Cassava,3.4894046336907105
+Sekondi/Takoradi,Yam (puna),3.493853904245923
+Kintampo,Plantains (apentu),3.5169056648488346
+Obuasi,Millet,3.5346108116098742
+Tamale,Cowpeas,3.566148305140379
+Bolga,Rice (imported),3.5683449694992584
+Obuasi,Yam,3.591629433224887
+Techiman,Yam (puna),3.604400664795395
+Tamale,Peppers (fresh),3.6055677658312164
+Bolga,Peppers (fresh),3.6157770969717684
+Ho,Cowpeas,3.6414548557640427
+Cape Coast,Cassava,3.6554624542846423
+Koforidua,Eggplants,3.683841296332937
+Cape Coast,Yam,3.7261977600664915
+Mankessim,Cassava,3.7992540825925416
+Koforidua,Yam (puna),3.8112182872225597
+Bolga,Tomatoes (local),3.8134622285996147
+Garu,Tomatoes (navrongo),3.826795172249022
+Techiman,Plantains (apem),3.8525989868891877
+Mankessim,Eggplants,3.8698808073048996
+Koforidua,Rice (local),3.8773064269161304
+Cape Coast,Rice (imported),3.939726605272591
+Ho,Yam,3.94005214680272
+Mankessim,Tomatoes (navrongo),3.9583291158494203
+Tamale,Onions,3.971257174158792
+Techiman,Cowpeas,3.9754446730071407
+Ejura,Plantains (apentu),4.03103391867491
+Techiman,Plantains (apentu),4.040312098494987
+Mankessim,Cowpeas,4.098062626261171
+Ho,Peppers (fresh),4.1431368002588025
+Mankessim,Yam,4.189840914062986
+Sekondi/Takoradi,Yam,4.19287254978128
+Accra,Eggplants,4.202950723560378
+Sekondi/Takoradi,Rice (imported),4.238098146145495
+Tema,Millet,4.240141299558289
+Ho,Tomatoes (local),4.2448316310328185
+Ho,Plantains (apem),4.27924790881647
+Hohoe,Rice (imported),4.286102639569941
+Cape Coast,Rice (local),4.2933006389087
+Wa,Yam,4.406991448791556
+Hohoe,Tomatoes (local),4.432834051028222
+Sunyani,Tomatoes (local),4.450520020943872
+Obuasi,Meat (chicken),4.455574912170643
+Techiman,Rice (imported),4.494211401166679
+Kumasi,Eggplants,4.513809610125742
+Kumasi,Peppers (fresh),4.524206564818636
+Sunyani,Cassava,4.534099508263485
+Obuasi,Yam (puna),4.538301795129115
+Wa,Peppers (fresh),4.606994848915933
+Koforidua,Tomatoes (local),4.6294837156472886
+Kumasi,Rice (imported),4.643066783416072
+Kintampo,Peppers (fresh),4.66029422708644
+Koforidua,Cassava,4.701440919916453
+Sekondi/Takoradi,Cassava,4.707929455861825
+Koforidua,Gari,4.71592169502067
+Ho,Onions,4.7858477126733785
+Hohoe,Onions,4.9069498094316435
+Koforidua,Cowpeas,4.95064340010661
+Sunyani,Tomatoes (navrongo),4.951033218017647
+Sunyani,Rice (imported),4.968657413463712
+Garu,Cowpeas,4.974787054137921
+Sunyani,Eggplants,4.994107451533904
+Accra,Tomatoes (local),5.026509095620989
+Obuasi,Tomatoes (local),5.106168570171043
+Tema,Gari,5.1066113155319
+Techiman,Tomatoes (local),5.146518096257327
+Hohoe,Tomatoes (navrongo),5.17158398456555
+Kintampo,Eggplants,5.184809866004131
+Tema,Cassava,5.2437626799209855
+Techiman,Yam,5.2681160159729545
+Sunyani,Plantains (apentu),5.275277643094451
+Techiman,Tomatoes (navrongo),5.284887982553511
+Bolga,Yam,5.334552014900582
+Ejura,Soybeans,5.372380794141536
+Obuasi,Eggplants,5.378101443298278
+Obuasi,Plantains (apentu),5.378471323259918
+Ho,Soybeans,5.444159237716417
+Hohoe,Peppers (fresh),5.4558709513937025
+Cape Coast,Plantains (apem),5.469640158225794
+Techiman,Eggplants,5.476246002226012
+Kintampo,"Fish (mackerel, fresh)",5.520722604799368
+Kumasi,Cowpeas,5.567881762035728
+Cape Coast,Plantains (apentu),5.604599986784685
+Bolga,Plantains (apentu),5.604696632118674
+Koforidua,Yam,5.653966056277408
+Sunyani,Cowpeas,5.658698508628513
+Tamale,Yam,5.682762109983701
+Tema,Sorghum,5.685893487166459
+Ejura,Tomatoes (navrongo),5.726057871138158
+Sekondi/Takoradi,Meat (chicken),5.726368469674926
+Ejura,Peppers (fresh),5.73882462426611
+Cape Coast,Eggplants,5.755704579627456
+Wa,Rice (imported),5.782906760521548
+Tamale,Rice (imported),5.842271734827828
+Sekondi/Takoradi,Eggplants,5.86871400918616
+Ho,Plantains (apentu),5.890432395079248
+Kumasi,Tomatoes (navrongo),5.900762962626127
+Accra,Cowpeas,5.907160951526782
+Sunyani,Peppers (fresh),5.951904815244094
+Wa,Eggplants,6.000807972063046
+Accra,Tomatoes (navrongo),6.007240032649995
+Ejura,"Fish (mackerel, fresh)",6.127264721325515
+Bolga,Eggplants,6.171893696194249
+Kintampo,Meat (chicken),6.178626556171651
+Mankessim,Peppers (fresh),6.185431772112063
+Tema,Tomatoes (local),6.189203815425196
+Sekondi/Takoradi,Peppers (fresh),6.212288924617198
+Yendi,Eggplants,6.235823158173889
+Tema,Yam (puna),6.265859417440539
+Tamale,Yam (puna),6.270726077124067
+Tema,Peppers (fresh),6.410186209573701
+Ho,"Fish (mackerel, fresh)",6.42827703430477
+Techiman,Soybeans,6.428388900488745
+Garu,Peppers (dried),6.46108668319028
+Kumasi,Plantains (apentu),6.465466604962091
+Cape Coast,Gari,6.496054977572756
+Accra,Peppers (fresh),6.55145128780475
+Yendi,"Fish (mackerel, fresh)",6.5890190559886905
+Tamale,Peppers (dried),6.676985770518553
+Ejura,Peppers (dried),6.747582836005948
+Koforidua,Tomatoes (navrongo),6.753914285980921
+Tema,Tomatoes (navrongo),6.757375122449775
+Bolga,Plantains (apem),6.766771753541982
+Garu,Soybeans,6.778595083226564
+Accra,Soybeans,6.783633268292867
+Mankessim,Soybeans,6.856679944007896
+Sekondi/Takoradi,Plantains (apem),6.913813998488506
+Tema,Rice (local),6.9823555340582075
+Obuasi,Cowpeas,6.983553066601328
+Ho,Peppers (dried),7.016998503930622
+Accra,Meat (chicken),7.018412410913508
+Garu,Onions,7.0252336655728165
+Ho,Tomatoes (navrongo),7.098359614164998
+Koforidua,Rice (imported),7.105551177499636
+Kintampo,Peppers (dried),7.229710621203659
+Sekondi/Takoradi,Tomatoes (local),7.2871041427607475
+Cape Coast,Cowpeas,7.393162335416184
+Obuasi,"Fish (mackerel, fresh)",7.410915432880271
+Tamale,Cassava,7.420877812229693
+Tema,Yam,7.481914935785196
+Sekondi/Takoradi,Gari,7.533211218896327
+Yendi,Onions,7.640548850819648
+Tema,Rice (imported),7.645374884159545
+Sunyani,Yam,7.718033550745652
+Sunyani,Peppers (dried),7.8465963831764745
+Bolga,Meat (chicken),7.871207010010868
+Sekondi/Takoradi,Soybeans,7.955915229947912
+Cape Coast,Tomatoes (navrongo),8.016868384534712
+Kumasi,Tomatoes (local),8.020885571028456
+Bolga,"Fish (mackerel, fresh)",8.033273491623193
+Mankessim,Meat (chicken),8.072421923899483
+Wa,Soybeans,8.149946664782586
+Ejura,Meat (chicken),8.277081991969814
+Accra,"Fish (mackerel, fresh)",8.333836527373524
+Hohoe,Soybeans,8.364639288565098
+Cape Coast,Soybeans,8.43699449185672
+Bolga,Soybeans,8.525187722064274
+Kumasi,Soybeans,8.571213335392239
+Sunyani,"Fish (mackerel, fresh)",8.577034035938794
+Wa,"Fish (mackerel, fresh)",8.606966304057188
+Ho,Eggplants,8.661424402603165
+Sekondi/Takoradi,Tomatoes (navrongo),8.777737966357131
+Tema,Cowpeas,9.05171344815977
+Kumasi,"Fish (mackerel, fresh)",9.070614417328038
+Hohoe,Meat (chicken),9.456281535847177
+Hohoe,"Fish (mackerel, fresh)",9.499127142145083
+Kumasi,Plantains (apem),9.603555103005721
+Koforidua,"Fish (mackerel, fresh)",9.672434533386218
+Mankessim,"Fish (mackerel, fresh)",9.783798241493107
+Cape Coast,Meat (chicken),9.896319686517915
+Ho,Meat (chicken),10.096927424931769
+Obuasi,Cassava,10.121827650234344
+Ho,Cassava,10.167353371601301
+Koforidua,Soybeans,10.365683384525163
+Techiman,"Fish (mackerel, fresh)",10.413058099496865
+Kumasi,Meat (chicken),10.704370636547834
+Yendi,Meat (chicken),10.815353742409362
+Sekondi/Takoradi,"Fish (mackerel, fresh)",10.89175448845656
+Yendi,Peppers (dried),10.926071641954556
+Sekondi/Takoradi,Peppers (dried),10.946552790902654
+Kumasi,Onions,10.973239424132482
+Yendi,Soybeans,11.024067423099469
+Sunyani,Onions,11.047678973274115
+Sekondi/Takoradi,Onions,11.512174129788733
+Cape Coast,Tomatoes (local),11.596263284779264
+Garu,Meat (chicken),11.609158090147988
+Kintampo,Soybeans,11.85310427343982
+Bolga,Peppers (dried),12.026960416345048
+Koforidua,Meat (chicken),12.192781437774634
+Techiman,Meat (chicken),12.194958463524427
+Tema,Eggplants,12.43558288598938
+Tema,Plantains (apentu),12.759770358443543
+Kumasi,Peppers (dried),12.834290239056585
+Mankessim,Peppers (dried),12.873469290916844
+Kintampo,Onions,13.232750760037966
+Wa,Meat (chicken),13.257199748819621
+Koforidua,Peppers (dried),13.323233154503317
+Cape Coast,Peppers (fresh),13.467054077683807
+Tamale,Soybeans,14.369978518203373
+Sunyani,Soybeans,14.389688017717248
+Tema,Meat (chicken),14.956835807496075
+Tamale,"Fish (mackerel, fresh)",15.790245755938065
+Bolga,Onions,16.68681491168146
+Bolga,Gari,17.491350661765452
+Techiman,Onions,17.546100014373565
+Techiman,Peppers (dried),17.555943093852484
+Wa,Peppers (dried),17.77961731456516
+Mankessim,Onions,17.963877611972837
+Obuasi,Onions,18.87872195872815
+Tamale,Meat (chicken),19.537932340965114
+Sunyani,Meat (chicken),20.72845667098377
+Koforidua,Onions,20.73458792682127
+Sekondi/Takoradi,Cowpeas,20.965368474597103
+Accra,Peppers (dried),21.861587965974
+Tema,Soybeans,21.947969631043375
+Wa,Tomatoes (local),22.35165725149517
+Obuasi,Peppers (dried),22.478633769147166
+Tema,Peppers (dried),23.852284563325313
+Wa,Onions,23.883964891008578
+Tema,Plantains (apem),24.63112510903883
+Cape Coast,Onions,24.822651484489043
+Obuasi,Peppers (fresh),25.655649988595886
+Tema,Onions,28.7589193379633
+Tema,"Fish (mackerel, fresh)",29.7394056766629
+Cape Coast,"Fish (mackerel, fresh)",29.873725750493488
+Accra,Onions,31.61929638777488
+Cape Coast,Peppers (dried),31.963655151226263
